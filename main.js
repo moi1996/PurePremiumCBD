@@ -1,0 +1,1 @@
+document.getElementById("root").innerText = "Bienvenido a PureCBD con Vite compilado.";
